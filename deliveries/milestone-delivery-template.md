@@ -4,9 +4,9 @@
 > 
 > Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with `>`, such as this one, can be removed.
 
-**The invoice has been sent to [invoices@polymath.network :pencil:](mailto:invoices@polymath.network) for this milestone and the delivery is according to the official [milestone delivery guidelines](https://github.com/PolymeshAssociation/Grants-Program/blob/master/docs/milestone-deliverables-guidelines.md).**  
+**The invoice has been sent to [finance@polymesh.network :pencil:](mailto:finance@polymesh.network) for this milestone and the delivery is according to the official [milestone delivery guidelines](https://github.com/PolymeshAssociation/Grants-Program/blob/main/docs/milestone-deliverables-guidelines.md).**  
 
-* **Application Document:** Please, provide a link to the merged contract (the `.md` file in the [applications](https://github.com/w3f/Grants-Program/tree/master/applications) directory).
+* **Application Document:** Please, provide a link to the merged contract (the `.md` file in the [applications](https://github.com/w3f/Grants-Program/tree/main/applications) directory).
 * **Milestone Number:** e.g. 1
 
 **Context** (optional)
